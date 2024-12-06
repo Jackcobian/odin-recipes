@@ -1,6 +1,6 @@
 # odin-recipes
 
-The goagl of this project is to get familiar with HTML
+## The goal of this project is to get familiar with HTML
 
-Create my own web page
-Link pages together
+* Create my own web page
+* Link pages together
